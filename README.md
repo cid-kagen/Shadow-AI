@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Node.js-20.x-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black" alt="Node.js">
   </a>
   <img src="https://img.shields.io/github/repo-size/yourusername/CID-Kageno-AI.svg?style=for-the-badge&label=Size&labelColor=black&color=00ADD8" alt="Size">
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Version&prefix=v&query=%24.version&url=https://raw.githubusercontent.com/yourusername/CID-Kageno-AI/main/package.json&style=for-the-badge&labelColor=black" alt="Version">
+  <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Version&prefix=v&query=%24.version&url=https://raw.githubusercontent.com/yourusername/Shadow-Ai/main/package.json&style=for-the-badge&labelColor=black" alt="Version">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=VISITORS&color=blueviolet&style=for-the-badge&labelColor=black" alt="Visitors">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&labelColor=black" alt="License">
 </p>
