@@ -74,9 +74,9 @@
 
 ## 📝 **Tutorial**
 
-- 📱 **For Mobile / Replit:** Add link to video guide  
-- 💻 **For VPS / Windows:** Add link to video guide  
-- **Step-by-step written guide:** Add instructions for installing Node.js, cloning repo, adding API keys, running the bot.
+- 📱 **For Mobile / Replit:** Coming soon 
+- 💻 **For VPS / Windows:** Coming soon 
+- **Step-by-step written guide:** All coming soon
 
 ---
 
@@ -108,7 +108,7 @@
 
 ## 💭 **Support**
 
-- **Discord Community:** Add link  
+- **Discord Community:** coming soon 
 - **Telegram Group:** Add link  
 
 ---
